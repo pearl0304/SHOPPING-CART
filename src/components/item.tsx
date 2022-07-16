@@ -1,6 +1,6 @@
 import { Button } from "@mui/material";
 import React from "react";
-import { IShopItem } from "../interfaces/shop_Items.interface";
+import { IShopItem } from "../interfaces/Items.interface";
 import { Wrapper } from "../css/item.styles";
 
 type Props = {
